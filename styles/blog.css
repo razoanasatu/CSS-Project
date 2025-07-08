@@ -1,0 +1,27 @@
+h3 {
+  font-size: 30px;
+  text-decoration: overline;
+  font-family: "Courier New", Courier, monospace;
+}
+.blog {
+  margin: 20px;
+  border: 5px solid rgb(83, 172, 31);
+  box-shadow: 10px 10px 5px rgb(57, 113, 198);
+}
+.second {
+  /* display: none; */
+  /* visibility: hidden; */
+}
+.incident {
+  border: 2px solid purple;
+}
+.header {
+  height: 300px;
+  background-image: url("OIP.jpg");
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+}
+
+/* .test{
+
+} */
